@@ -29,8 +29,6 @@ We work on various software projects, leveraging modern technologies and best pr
 
 [[infra](https://github.com/Anywell-Software/infra)] — Infrastructure-as-code and deployment configuration.
 
-[[hackathon-winterthur-swica-challenge](https://github.com/Anywell-Software/hackathon-winterthur-swica-challenge)] — Project built for the SWICA challenge at the Winterthur hackathon.
-
 [[swiss-voting-abstention](https://github.com/Anywell-Software/swiss-voting-abstention)] — TeX-based research/paper on Swiss voting abstention.
 
 [[referenda-study](https://github.com/Anywell-Software/referenda-study)] — R-based case study on Swiss referenda and elections.

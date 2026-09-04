@@ -20,22 +20,14 @@ We work on various software projects, leveraging modern technologies and best pr
 - **Pragmatic Solutions:** We focus on solving real problems with practical approaches
 
 ## Our Repositories
-
-[[bullseye-pipeline-toolkit](https://github.com/Anywell-Software/bullseye-pipeline-toolkit)] — C# toolkit for building and managing CI/CD pipelines.
-
-[[anywell-authentication](https://github.com/Anywell-Software/anywell-authentication)] — Authentication module for Anywell products (React + C#).
-
-[[anywell-website](https://github.com/Anywell-Software/anywell-website)] — The official Anywell company website, built with TypeScript.
-
-[[infra](https://github.com/Anywell-Software/infra)] — Infrastructure-as-code and deployment configuration.
-
-[[swiss-voting-abstention](https://github.com/Anywell-Software/swiss-voting-abstention)] — TeX-based research/paper on Swiss voting abstention.
-
-[[referenda-study](https://github.com/Anywell-Software/referenda-study)] — R-based case study on Swiss referenda and elections.
-
-[[.github](https://github.com/Anywell-Software/.github)] — Organization-level defaults, templates, and this profile README.
-
-[[documentation](https://github.com/Anywell-Software/documentation)] — Central documentation for Anywell Software projects (MIT licensed).
+- [bullseye-pipeline-toolkit](https://github.com/Anywell-Software/bullseye-pipeline-toolkit) — C# toolkit for building and managing CI/CD pipelines.
+- [anywell-authentication](https://github.com/Anywell-Software/anywell-authentication) — Authentication module for Anywell products (React + C#).
+- [anywell-website](https://github.com/Anywell-Software/anywell-website) — The official Anywell company website, built with TypeScript.
+- [infra](https://github.com/Anywell-Software/infra) — Infrastructure-as-code and deployment configuration.
+- [swiss-voting-abstention](https://github.com/Anywell-Software/swiss-voting-abstention) — TeX-based research/paper on Swiss voting abstention.
+- [referenda-study](https://github.com/Anywell-Software/referenda-study) — R-based case study on Swiss referenda and elections.
+- [.github](https://github.com/Anywell-Software/.github) — Organization-level defaults, templates, and this profile README.
+- [documentation](https://github.com/Anywell-Software/documentation) — Central documentation for Anywell Software projects (MIT licensed).
 
 ## Get Involved
 

@@ -6,7 +6,7 @@ Welcome to **Anywell-Software** – This is the newest B2B AI Startup revolution
 
 ## Who We Are
 
-Anywell-Software is a software development organization focused on building quality solutions. We're a team of developers passionate about creating well-crafted software that solves real problems.
+AnyWell is a non-commercial hobby project building a free learning app that makes Swiss democracy easy to understand.
 
 ## What We Do
 
